@@ -162,4 +162,3 @@
   💜 Built with passion by <b>Youssef Abdelhakim Fekry</b> 🚀  
   <br/>⭐ Star my repositories if you like my work!
 </p>
-![Snake animation](https://github.com/Youssef-Abdelhakim-Dev/Youssef-Abdelhakim-Dev/blob/output/github-contribution-grid-snake.svg)
