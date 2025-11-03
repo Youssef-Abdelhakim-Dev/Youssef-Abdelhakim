@@ -114,7 +114,7 @@
 | 6 | **Typing Speed Test** | [⌨️ View Repo](https://github.com/Youssef-Abdelhakim-Dev/Typing-Speed) | <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black"/> |
 | 7 | **URL Shortener** | [🔗 View Repo](https://github.com/Youssef-Abdelhakim-Dev/URL-Shortener) | **<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> |
 | 8 | **Digital Clock** | [⏰ View Repo](https://github.com/Youssef-Abdelhakim-Dev/Digital-Clock) | <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black"/> |
-| 9 | **To-Do List Application** | [📝 View Repo](https://github.com/Youssef-Abdelhakim-Dev/To-Do-List) | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/LocalStorage-FFCA28?style=for-the-badge&logo=google-chrome&logoColor=black"/> |
+| 9 | **To-Do List Application** | [📝 View Repo](https://github.com/Youssef-Abdelhakim-Dev/To-Do-List) | <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/LocalStorage-FFCA28?style=for-the-badge&logo=google-chrome&logoColor=black"/> |
 | 10 | **Project Graduation (E-Learning Platform)** | [🎓 View Repo](https://github.com/Youssef-Abdelhakim-Dev/Project-Graduation) | <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> |
 
 ---
