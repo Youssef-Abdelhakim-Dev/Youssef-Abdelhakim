@@ -34,7 +34,7 @@
 ## 🎓 Education
 🎓 **Bachelor of Science in Physics and Computer Science**  
 **Zagazig University, Faculty of Science — Egypt**  
-📅 *Expected Graduation:* 2025  
+📅 *Graduation:* 2025  
 📈 *Cumulative Grade:* Good  
 
 ---
