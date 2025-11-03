@@ -102,20 +102,20 @@
 </p>
 
 ---
-
 ## 🚀 Projects
-| # | Project | Preview | Tech |
-|---|----------|----------|------|
-| 1 | Next.js CRUD Project | [CRUD-Project](https://github.com/Youssef-Abdelhakim-Dev/CRUD-Project) | Next.js, MongoDB |
-| 2 | Personal Portfolio | [Personal-Portfolio](https://github.com/Youssef-Abdelhakim-Dev/Personal-Portfolio) | React, TailwindCSS |
-| 3 | Social Media Platform | [Social-Media](https://github.com/Youssef-Abdelhakim-Dev/Social-Media) | MERN |
-| 4 | Guess Numbers Game | [Guess-Numbers](https://github.com/Youssef-Abdelhakim-Dev/Guess-Numbers) | JS |
-| 5 | Questions Game | [Questions-Game](https://github.com/Youssef-Abdelhakim-Dev/Questions-Game) | JS |
-| 6 | Typing Speed Test | [Typing-Speed](https://github.com/Youssef-Abdelhakim-Dev/Typing-Speed) | JS |
-| 7 | URL Shortener | [URL-Shortener](https://github.com/Youssef-Abdelhakim-Dev/URL-Shortener) | Node.js |
-| 8 | Digital Clock | [Digital-Clock](https://github.com/Youssef-Abdelhakim-Dev/Digital-Clock) | JS |
-| 9 | To-Do List | [To-Do-List](https://github.com/Youssef-Abdelhakim-Dev/To-Do-List) | React |
-| 10 | Project Graduation (E-Learning) | [Project-Graduation](https://github.com/Youssef-Abdelhakim-Dev/Project-Graduation) | MERN |
+
+| # | 🧩 Project | 🔗 Preview | 🛠️ Tech Stack |
+|---|-------------|------------|---------------|
+| 1 | **Next.js CRUD Project** | [🔍 View Repo](https://github.com/Youssef-Abdelhakim-Dev/CRUD-Project) | <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/> |
+| 2 | **Personal Portfolio** | [💼 View Repo](https://github.com/Youssef-Abdelhakim-Dev/Personal-Portfolio) | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> |
+| 3 | **Social Media Platform** | [🌐 View Repo](https://github.com/Youssef-Abdelhakim-Dev/Social-Media) | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> |
+| 4 | **Guess Numbers Game** | [🎯 View Repo](https://github.com/Youssef-Abdelhakim-Dev/Guess-Numbers) | <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black"/> |
+| 5 | **Questions Game** | [❓ View Repo](https://github.com/Youssef-Abdelhakim-Dev/Questions-Game) | <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black"/> |
+| 6 | **Typing Speed Test** | [⌨️ View Repo](https://github.com/Youssef-Abdelhakim-Dev/Typing-Speed) | <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black"/> |
+| 7 | **URL Shortener** | [🔗 View Repo](https://github.com/Youssef-Abdelhakim-Dev/URL-Shortener) | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> |
+| 8 | **Digital Clock** | [⏰ View Repo](https://github.com/Youssef-Abdelhakim-Dev/Digital-Clock) | <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black"/> |
+| 9 | **To-Do List Application** | [📝 View Repo](https://github.com/Youssef-Abdelhakim-Dev/To-Do-List) | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/LocalStorage-FFCA28?style=for-the-badge&logo=google-chrome&logoColor=black"/> |
+| 10 | **Project Graduation (E-Learning Platform)** | [🎓 View Repo](https://github.com/Youssef-Abdelhakim-Dev/Project-Graduation) | <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> |
 
 ---
 
